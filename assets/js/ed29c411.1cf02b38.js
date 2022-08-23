@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjentri_docs=self.webpackChunkjentri_docs||[]).push([[8199],{3867:e=>{e.exports=JSON.parse('{"permalink":"/jentri-docs/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

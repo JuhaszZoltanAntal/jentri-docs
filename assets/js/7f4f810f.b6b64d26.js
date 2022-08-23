@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjentri_docs=self.webpackChunkjentri_docs||[]).push([[4016],{8223:s=>{s.exports=JSON.parse('{"label":"post","permalink":"/jentri-docs/blog/tags/post","allTagsPath":"/jentri-docs/blog/tags","count":1}')}}]);
